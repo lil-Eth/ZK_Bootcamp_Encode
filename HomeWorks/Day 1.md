@@ -1,13 +1,13 @@
 ### Mathematics and Modular Arithmetic
 
-#### 1. Working with the following set of Integers $\mathbb{Z}$
+#### 1. Working with the following set of Integers $\mathbb{S}$ = {1,2,3,4,5,6}
 
 - **What is:**
-  - \(a)\) \(4 + 4\)
-  - \(b)\) \(3 \times 5\)
-  - \(c)\) What is the inverse of \(3\)?
+  - a 4 + 4
+  - b 3 $\times$ 5
+  - c What is the inverse of 3 ?
 
-#### 2. Considering \(S = \{0,1,2,3,4,5,6\}\) and the operation '+'
+#### 2. Considering $\mathbb{S}$ = {1,2,3,4,5,6} and the operation '+'
 
 - Can we consider 'S' and the operation '+' to be a group?
 
@@ -27,13 +27,13 @@
 
 #### 1. Answers
 
-- \(a)\) \(4 + 4 \equiv 1 \mod 7\)
-- \(b)\) \(3 \times 5 \equiv 1 \mod 7\)
-- \(c)\) The inverse of \(3\) in modulo \(7\) is \(5\).
+- a 4 + 4 $\equiv$ 1 $\mod$ 7
+- b 3 $\times$ 5 $\equiv$ 1 $\mod$ 7
+- c The inverse of 3 $\mod$ 7 is 5.
 
 #### 2. Group Properties
 
-- Yes, \(S\) and the operation '+' form a group under modulo 7 arithmetic, satisfying closure, associativity, identity, and inverse element properties.
+- Yes, $\mathbb{S}$ and the operation '+' form a group under modulo 7 arithmetic, satisfying closure, associativity, identity, and inverse element properties.
 
 #### 3. Modular Operation Answer
 
