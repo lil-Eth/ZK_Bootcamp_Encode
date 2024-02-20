@@ -13,7 +13,7 @@
 
 #### 3. Modular Operation
 
-- What is \(-13 \mod 5\)?
+- What is \(-13 \bmod 5\)?
 
 #### 4. Polynomials
 
