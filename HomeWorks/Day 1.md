@@ -27,9 +27,9 @@
 
 #### 1. Answers
 
-- a 4 + 4 $\equiv$ 1 $\mod$ 7
-- b 3 $\times$ 5 $\equiv$ 1 $\mod$ 7
-- c The inverse of 3 $\mod$ 7 is 5.
+- a 4 + 4 $\equiv$ 1 $\mod_7$
+- b 3 $\times$ 5 $\equiv$ 1 $\mod_7$
+- c The inverse of 3 $\mod_7$ is 5.
 
 #### 2. Group Properties
 
