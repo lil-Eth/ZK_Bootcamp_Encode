@@ -17,7 +17,7 @@
 
 #### 4. Polynomials
 
-- For the polynomial $x_n^3$ - $x_{2}$ + 4x - 12, find:
+- For the polynomial $x_^3$ - $x_{2}$ + 4x - 12, find:
   - The positive root.
   - The degree of this polynomial.
 
