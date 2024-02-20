@@ -49,10 +49,13 @@
 #### Use cases
 
 In your teams discuss any systems you have used that involved zero knowledge proofs.
-Have you seen any applications of zero knowledge proofs other than with a blockchain ?
-        => Authentication and voting systems
-What is to you, the most important feature of zkp technology ?
-        => To me, the most significant feature of ZKP technology is its ability to preserve privacy
-Think of some use cases of zero knowledge proofs that you would like to see developed
-        => HealthCare privacy
-        => Anonimity through transactions like stealth addresses [vitalik article](https://vitalik.eth.limo/general/2023/01/20/stealth.html)
+
+- Have you seen any applications of zero knowledge proofs other than with a blockchain ?
+Authentication and voting systems
+
+- What is to you, the most important feature of zkp technology ?
+To me, the most significant feature of ZKP technology is its ability to preserve privacy
+
+- Think of some use cases of zero knowledge proofs that you would like to see developed
+HealthCare privacy
+Anonimity through transactions like stealth addresses [vitalik article](https://vitalik.eth.limo/general/2023/01/20/stealth.html)
