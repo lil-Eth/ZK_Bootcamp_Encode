@@ -17,7 +17,7 @@
 
 #### 4. Polynomials
 
-- For the polynomial \(x^3 - x^2 + 4x - 12\), find:
+- For the polynomial $x_{3}$ - $x_{2}$ + 4x - 12, find:
   - The positive root.
   - The degree of this polynomial.
 
@@ -41,6 +41,6 @@
 
 #### 4. Polynomials
 
-- The positive root of \(x^3 - x^2 + 4x - 12\) is \(2.0\).
+- The positive root of $x_{3}$ - $x_{2}$ + 4x - 12 is \(2.0\).
 - The degree of the polynomial is \(3\).
 
