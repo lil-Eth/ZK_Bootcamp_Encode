@@ -1,6 +1,6 @@
 ### Mathematics and Modular Arithmetic
 
-#### 1. Working with the following set of Integers \mathbb{Z}
+#### 1. Working with the following set of Integers $\mathbb{Z}$
 
 - **What is:**
   - \(a)\) \(4 + 4\)
